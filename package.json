@@ -1,7 +1,7 @@
 {
   "name": "bloodshot-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A red syntax theme for atom",
   "keywords": [
     "syntax",
